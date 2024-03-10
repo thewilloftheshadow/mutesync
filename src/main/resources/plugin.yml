@@ -1,0 +1,9 @@
+name: MuteSync
+version: ${project.version}
+main: dev.shadowing.mutesync.MuteSync
+api-version: 1.20
+author: thewilloftheshadow
+depend: [DiscordSRV, LibertyBans]
+load: POSTWORLD
+website: "https://github.com/thewilloftheshadow/mutesync"
+description: Automatically mute players in Minecraft when they are muted on Discord

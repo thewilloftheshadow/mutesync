@@ -1,0 +1,19 @@
+# MuteSync, (c) Shadow 2024
+
+# This is the role that will be used to mute players, and determine if they are muted
+mute-role: "0000000000000000000"
+
+# This is the reason that will be used in LibertyBans when a player is muted
+mute-reason: "Muted on Discord server"
+
+# MuteSync has the ability to sync mutes and unmutes from both Discord to Minecraft, and Minecraft to Discord.
+# If you want to disable one of these, set the value to false.
+discord-to-minecraft-mute: true
+discord-to-minecraft-unmute: true
+minecraft-to-discord-mute: true
+minecraft-to-discord-unmute: true
+
+# Debug mode
+debug: false
+# DO NOT MANUALLY CHANGE THIS
+config-version: 1
