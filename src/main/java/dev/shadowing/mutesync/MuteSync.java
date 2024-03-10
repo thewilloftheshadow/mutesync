@@ -1,4 +1,4 @@
-package com.shadowdev.mutesync;
+package dev.shadowing.mutesync;
 
 import java.io.File;
 import java.io.InputStream;
